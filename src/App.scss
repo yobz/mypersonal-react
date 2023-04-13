@@ -1,0 +1,7 @@
+.my-tab,.team-tab{
+	.nav-item{
+		& > button{
+			border: none;
+		} 
+	}
+}

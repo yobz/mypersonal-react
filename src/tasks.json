@@ -1,0 +1,109 @@
+{
+    "my_timezone": "Europe/Madrid",
+    "my_tasks": [
+        {
+            "project_id": 2879,
+            "project_name": "ReeL",
+            "task_path": ["ReeL", "EN-US > EN-US", "Alpha"],
+            "task_name": "Software Testing",
+            "status": "Ongoing",
+            "due_date": "2023-04-07 15:00",
+            "due_date_timezone": "America/New_York",
+            "completion_date": null,
+            "completion_date_timezone": null,
+            "minutes_logged": 0,
+            "notes": null
+        },
+        {
+            "project_id": 2418,
+            "project_name": "Buko",
+            "task_path": ["Buko", "EN-US > EN-US", "Gold"],
+            "task_name": "Deployment to Production",
+            "status": "Ongoing",
+            "due_date": null,
+            "due_date_timezone": null,
+            "completion_date": null,
+            "completion_date_timezone": null,
+            "minutes_logged": 215,
+            "notes": "Make sure to properly test all the new functioanlity introduced on version 2.0\r\nAll automated tests have passed."
+        },
+        {
+            "project_id": 2418,
+            "project_name": "Buko",
+            "task_path": ["Buko", "EN-US > EN-US", "Project Dashboard Reports"],
+            "task_name": "Software Development",
+            "status": "Ongoing",
+            "due_date": null,
+            "due_date_timezone": null,
+            "completion_date": null,
+            "completion_date_timezone": null,
+            "minutes_logged": 0,
+            "notes": "Requirement documents have been approved."
+        },
+        {
+            "project_id": 20039,
+            "project_name": "ConnectAPI",
+            "task_path": ["Development", "EN-US > EN-US", "API Testing"],
+            "task_name": "Software Testing",
+            "status": "Completed",
+            "due_date": null,
+            "due_date_timezone": null,
+            "completion_date": "2023-02-01 16:00",
+            "completion_date_timezone": "Europe/Madrid",
+            "minutes_logged": 60
+        },
+        {
+            "project_id": 2418,
+            "project_name": "Buko",
+            "task_path": ["Vendor Portal", "EN-US > EN-US", "Alpha"],
+            "task_name": "Software Development",
+            "status": "Completed",
+            "due_date": "2023-03-01 16:00",
+            "due_date_timezone": "America/New_York",
+            "completion_date": "2023-03-01 16:00",
+            "completion_date_timezone": "Europe/Madrid",
+            "minutes_logged": 230
+        }
+    ],
+    "team_tasks": [
+        {
+            "project_id": 2418,
+            "project_name": "Buko",
+            "task_path": ["Buko", "EN-US > EN-US", "Beta"],
+            "task_name": "Testing - Bug Fixes",
+            "status": "Ongoing",
+            "due_date": null,
+            "due_date_timezone": null,
+            "completion_date": null,
+            "completion_date_timezone": null,
+            "minutes_logged": 0,
+            "notes": null
+        },
+        {
+            "project_id": 2418,
+            "project_name": "Buko",
+            "task_path": ["Buko", "EN-US > EN-US", "Gold"],
+            "task_name": "Testing - Production",
+            "status": "Ongoing",
+            "due_date": null,
+            "due_date_timezone": null,
+            "completion_date": null,
+            "completion_date_timezone": null,
+            "minutes_logged": 0,
+            "notes": null
+        },
+        {
+            "project_id": 2418,
+            "project_name": "Buko",
+            "task_path": ["Vendor Portal", "EN-US > EN-US", "Gold"],
+            "task_name": "Testing - Production",
+            "status": "Ongoing",
+            "due_date": null,
+            "due_date_timezone": null,
+            "completion_date": null,
+            "completion_date_timezone": null,
+            "minutes_logged": 0,
+            "notes": null
+        }
+    ]
+}
